@@ -56,13 +56,13 @@ This module helps you manage the feedback you can give at the end of your servic
 
 ### Installing It
 
-1. :octocat: Clone this repository and go to the lm-instala-provider folder:
+1. :octocat: Clone this repository and go to the lm-instala-satsftn folder:
  
 
 ```
-git clone https://github.com/leroy-merlin-br/lm-instala-provider.git
+git clone https://github.com/leroy-merlin-br/lm-instala-satsftn.git
 
-cd lm-instala-provider
+cd lm-instala-satsftn
 ```
 
 </br></br>
@@ -179,7 +179,7 @@ docker-compose up --build
 > Check in the docker-compose.yml file what port will be exposed on your host and ensure that they are not already used.
 
 When all components are started, you can access the app at :
-* **http://localhost:8087**
+* **http://localhost:8091**
 
 
 </br></br>
