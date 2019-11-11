@@ -1,18 +1,18 @@
 
 <img align="right" width="20%" src="https://github.com/elton-develcode/images/blob/master/logos/logo_instala_146x146.png">
 
-# Lm-Instala-Provider
+# Lm-Instala-Satsftn
 
-Module in [Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: - **Instala** for manages service provider and craftsman.
+Module in [Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: - **Instala** is responsible for service satisfaction surveys.
 </br></br>
 
 > Leroy Merlin Brazil  🇧🇷 - Instala Team
 
 </br>
 
-**Why:** By the need to manage installers to provide services.
+**Why:** Record feedback of service provided.
 
-**What:** Some purchase orders can generate orders from various service.
+**What:** Work Order Feedback.
 </br></br></br>
 
 ## Summary
