@@ -18,7 +18,7 @@ Module in [Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: - **Instal
 ## Summary
 </br>
 
-The **Lm-Instala-Provider** is a module for managing service provider and craftsman to perform customer service orders.
+The **Lm-Instala-Satsftn** is a module for managing customer feedback on services provided.
 
 </br>
 
