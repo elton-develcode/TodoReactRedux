@@ -26,11 +26,11 @@ The **Lm-Instala-Satsftn** is a module for managing customer feedback on service
 
 </br>
 
-Let's say you buy a Leroy Merlin product and need to use an installation service.
+Let's say you buy a [Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: product and need to use an installation service.
 
 Let's imagine buying an air conditioner.
 
-Leroy has the best professionals and manages the availability and checks the feedback on their services.
+[Leroy Merlin](https://www.leroymerlin.com.br/) :copyright: has the best professionals and manages the availability and checks the feedback on their services.
 
 This module helps you manage the feedback you can give at the end of your service.
 
